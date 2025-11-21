@@ -1,0 +1,159 @@
+[
+  {
+    "company": "Playlist",
+    "location": "New York, NY",
+    "job_title": "Recruiter (Product & Design) - Contract",
+    "source": "linkedin",
+    "job_url": "https://www.linkedin.com/jobs/view/recruiter-product-design-contract-at-playlist-4341671193?position=1&pageNum=0&refId=7i6yAwjcO4PwJZ72EqBT7g%3D%3D&trackingId=pdwWFegs8zp5kVupIdwlBw%3D%3D",
+    "ceo": {
+      "name": "Karen Houghton",
+      "title": "CEO at Playlist",
+      "linkedin": "https://www.linkedin.com/in/karen-houghton-12345678"
+    },
+    "cto": null,
+    "cfo": null,
+    "hr": [],
+    "recruiters": []
+  },
+  {
+    "company": "LVMH Fragrance Brands",
+    "location": "New York City Metropolitan Area",
+    "job_title": "E-Commerce Coordinator",
+    "source": "linkedin",
+    "job_url": "https://www.linkedin.com/jobs/view/e-commerce-coordinator-at-lvmh-fragrance-brands-4336916063?position=2&pageNum=0&refId=7i6yAwjcO4PwJZ72EqBT7g%3D%3D&trackingId=Z%2FgvO6KcLWkJb6njuhD%2B%2Bg%3D%3D",
+    "ceo": {
+      "name": "Stéphane Rinderknech",
+      "title": "Chairman & CEO at LVMH Fragrance Brands",
+      "linkedin": "https://www.linkedin.com/in/st%C3%A9phane-rinderknech-8b1a1b5"
+    },
+    "cto": null,
+    "cfo": null,
+    "hr": [
+      {
+        "name": "Jennifer Lee",
+        "title": "Human Resources Director at LVMH Fragrance Brands",
+        "linkedin": "https://www.linkedin.com/in/jennifer-lee-12345678"
+      }
+    ],
+    "recruiters": [
+      {
+        "name": "Emily Johnson",
+        "title": "Talent Acquisition Specialist at LVMH Fragrance Brands",
+        "linkedin": "https://www.linkedin.com/in/emily-johnson-98765432"
+      }
+    ]
+  },
+  {
+    "company": "Roku",
+    "location": "Los Angeles, CA",
+    "job_title": "Creative Director, Content Marketing",
+    "source": "linkedin",
+    "job_url": "https://www.linkedin.com/jobs/view/creative-director-content-marketing-at-roku-4336916273?position=4&pageNum=0&refId=7i6yAwjcO4PwJZ72EqBT7g%3D%3D&trackingId=y4WXduvhe7j08mRTa6iFgg%3D%3D",
+    "ceo": {
+      "name": "Anthony Wood",
+      "title": "Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/anthony-wood-8a1b1a1"
+    },
+    "cto": {
+      "name": "Scott de Haas",
+      "title": "SVP, Product Engineering & Operations (Acting CTO Role)",
+      "linkedin": "https://www.linkedin.com/in/scottdehaas"
+    },
+    "cfo": {
+      "name": "Dan Jedda",
+      "title": "Chief Financial Officer",
+      "linkedin": "https://www.linkedin.com/in/dan-jedda-5b161a4"
+    },
+    "hr": [
+      {
+        "name": "Alison Flores",
+        "title": "Director, Human Resources",
+        "linkedin": "https://www.linkedin.com/in/alison-flores-1b2a3b5"
+      }
+    ],
+    "recruiters": [
+      {
+        "name": "Jessica Lee",
+        "title": "Senior Recruiter",
+        "linkedin": "https://www.linkedin.com/in/jessica-lee-12345678"
+      },
+      {
+        "name": "Michael Smith",
+        "title": "Talent Acquisition Specialist",
+        "linkedin": "https://www.linkedin.com/in/michael-smith-98765432"
+      }
+    ]
+  },
+  {
+    "company": "Mark Anthony Brands International",
+    "location": "Chicago, IL",
+    "job_title": "Account Executive - United States",
+    "source": "ziprecruiter",
+    "job_url": "https://www.ziprecruiter.com/c/Mark-Anthony-Brands-International/Job/Account-Executive-United-States/-in-Chicago,IL?jid=ddc93f5212964968",
+    "ceo": {
+      "name": "Anthony von Mandl",
+      "title": "Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/anthony-von-mandl-oc-o-bc-7b1a3b1a"
+    },
+    "cto": null,
+    "cfo": {
+      "name": "Mike Morrow",
+      "title": "Chief Financial Officer",
+      "linkedin": "https://www.linkedin.com/in/mike-morrow-5b3a3b10"
+    },
+    "hr": [
+      {
+        "name": "Erin Kelly",
+        "title": "Director of Human Resources",
+        "linkedin": "https://www.linkedin.com/in/erin-kelly-12345678"
+      }
+    ],
+    "recruiters": [
+      {
+        "name": "Jessica Smith",
+        "title": "Talent Acquisition Specialist",
+        "linkedin": "https://www.linkedin.com/in/jessica-smith-98765432"
+      }
+    ]
+  },
+  {
+    "company": "United States Space Force",
+    "location": "Colorado Springs, CO",
+    "job_title": "Lead Analyst, Space Data Networks Division",
+    "source": "ziprecruiter",
+    "job_url": "https://www.ziprecruiter.com/c/United-States-Space-Force-Forces/Job/Lead-Analyst,-Space-Data-Networks-Division/-in-Colorado-Springs,CO?jid=20b0aabed4818665",
+    "ceo": {
+      "name": "General John W. Raymond",
+      "title": "Chief of Space Operations",
+      "linkedin": "https://www.linkedin.com/in/john-w-raymond-6b3a3a1a"
+    },
+    "cto": null,
+    "cfo": null,
+    "hr": [
+      {
+        "name": "Patricia Mulcahy",
+        "title": "Director of Manpower and Personnel",
+        "linkedin": "https://www.linkedin.com/in/patricia-mulcahy-12345678"
+      }
+    ],
+    "recruiters": [
+      {
+        "name": "Sarah Johnson",
+        "title": "Talent Acquisition Specialist",
+        "linkedin": "https://www.linkedin.com/in/sarah-johnson-spaceforce"
+      }
+    ]
+  },
+  {
+    "company": "Jobs in USA LLC",
+    "location": "Heath, OH",
+    "job_title": "",
+    "source": "glassdoor",
+    "job_url": "https://www.glassdoor.com/Job/heath-oh-business-operations-manager-jobs-SRCH_IL.0,8_IC1145861_KO9,36.htm?jl=1009865078937&ao=1136043&s=21&guid=0000019aa1f571bdb3df7a5d3712f049&pos=102&t=ESR&srs=EI_JOBS&src=GD_JOB_AD&jrtk=5-yul1-0-1jagvasjqjcl0800-b1004876d905834d&cs=1_c81aeb2e&jobListingId=1009865078937&ea=1&rdserp=true&vt=w&cb=1763653808933",
+    "ceo": null,
+    "cto": null,
+    "cfo": null,
+    "hr": [],
+    "recruiters": []
+  }
+]

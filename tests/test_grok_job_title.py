@@ -21,7 +21,7 @@ def test_grok_job_title_extraction(job_url: str):
     
     try:
         # Initialize Grok model
-        print("⏳ Initializing Grok Plus model...")
+        print(" Initializing Grok Plus model...")
         model = ChatOpenAI(
             model="grok-3",
             temperature=0,
