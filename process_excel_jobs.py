@@ -186,9 +186,9 @@ def main():
     try:
         process_jobs_from_excel(excel_file, output_file, enable_email_enrichment=enable_enrichment)
     except KeyboardInterrupt:
-        print("\n\n⚠️  Interrupted by user.")
+        print("\n\n  Interrupted by user.")
     except Exception as e:
-        print(f"\n❌ Unexpected error: {str(e)}")
+        print(f"\n Unexpected error: {str(e)}")
         import traceback
         traceback.print_exc()
 
