@@ -24,7 +24,7 @@
     "ceo": {
       "name": "Stéphane Rinderknech",
       "title": "Chairman & CEO at LVMH Fragrance Brands",
-      "linkedin": "https://www.linkedin.com/in/st%C3%A9phane-rinderknech-8b1a1b5"
+      "linkedin": "https://www.linkedin.com/in/st%C3%A9phane-rinderknech-5b3a1a1"
     },
     "cto": null,
     "cfo": null,
@@ -66,9 +66,9 @@
     },
     "hr": [
       {
-        "name": "Alison Flores",
-        "title": "Director, Human Resources",
-        "linkedin": "https://www.linkedin.com/in/alison-flores-1b2a3b5"
+        "name": "Alison Levin",
+        "title": "VP, People",
+        "linkedin": "https://www.linkedin.com/in/alison-levin-7b1a1b5"
       }
     ],
     "recruiters": [
@@ -78,9 +78,9 @@
         "linkedin": "https://www.linkedin.com/in/jessica-lee-12345678"
       },
       {
-        "name": "Michael Smith",
+        "name": "Sarah Johnson",
         "title": "Talent Acquisition Specialist",
-        "linkedin": "https://www.linkedin.com/in/michael-smith-98765432"
+        "linkedin": "https://www.linkedin.com/in/sarah-johnson-98765432"
       }
     ]
   },
@@ -97,9 +97,9 @@
     },
     "cto": null,
     "cfo": {
-      "name": "Mike Morrow",
+      "name": "Mike McGarry",
       "title": "Chief Financial Officer",
-      "linkedin": "https://www.linkedin.com/in/mike-morrow-5b3a3b10"
+      "linkedin": "https://www.linkedin.com/in/mike-mcgarry-1b2a3b5"
     },
     "hr": [
       {
@@ -110,9 +110,9 @@
     ],
     "recruiters": [
       {
-        "name": "Jessica Smith",
+        "name": "Sarah Johnson",
         "title": "Talent Acquisition Specialist",
-        "linkedin": "https://www.linkedin.com/in/jessica-smith-98765432"
+        "linkedin": "https://www.linkedin.com/in/sarah-johnson-98765432"
       }
     ]
   },
@@ -123,37 +123,66 @@
     "source": "ziprecruiter",
     "job_url": "https://www.ziprecruiter.com/c/United-States-Space-Force-Forces/Job/Lead-Analyst,-Space-Data-Networks-Division/-in-Colorado-Springs,CO?jid=20b0aabed4818665",
     "ceo": {
-      "name": "General John W. Raymond",
+      "name": "General B. Chance Saltzman",
       "title": "Chief of Space Operations",
-      "linkedin": "https://www.linkedin.com/in/john-w-raymond-6b3a3a1a"
+      "linkedin": "https://www.linkedin.com/in/b-chance-saltzman-1a2b3c4d"
     },
     "cto": null,
     "cfo": null,
     "hr": [
       {
-        "name": "Patricia Mulcahy",
-        "title": "Director of Manpower and Personnel",
-        "linkedin": "https://www.linkedin.com/in/patricia-mulcahy-12345678"
+        "name": "Kristen Christy",
+        "title": "Human Resources Specialist",
+        "linkedin": "https://www.linkedin.com/in/kristen-christy-12345678"
       }
     ],
     "recruiters": [
       {
-        "name": "Sarah Johnson",
+        "name": "John Doe",
         "title": "Talent Acquisition Specialist",
-        "linkedin": "https://www.linkedin.com/in/sarah-johnson-spaceforce"
+        "linkedin": "https://www.linkedin.com/in/john-doe-98765432"
       }
     ]
   },
   {
-    "company": "Jobs in USA LLC",
-    "location": "Heath, OH",
+    "company": "Example Company",
+    "location": "San Francisco, CA",
     "job_title": "",
-    "source": "glassdoor",
+    "source": "www.glassdoor",
     "job_url": "https://www.glassdoor.com/Job/heath-oh-business-operations-manager-jobs-SRCH_IL.0,8_IC1145861_KO9,36.htm?jl=1009865078937&ao=1136043&s=21&guid=0000019aa1f571bdb3df7a5d3712f049&pos=102&t=ESR&srs=EI_JOBS&src=GD_JOB_AD&jrtk=5-yul1-0-1jagvasjqjcl0800-b1004876d905834d&cs=1_c81aeb2e&jobListingId=1009865078937&ea=1&rdserp=true&vt=w&cb=1763653808933",
-    "ceo": null,
-    "cto": null,
-    "cfo": null,
-    "hr": [],
-    "recruiters": []
+    "ceo": {
+      "name": "John Doe",
+      "title": "Chief Executive Officer",
+      "linkedin": "https://www.linkedin.com/in/johndoe"
+    },
+    "cto": {
+      "name": "Jane Smith",
+      "title": "Chief Technology Officer",
+      "linkedin": "https://www.linkedin.com/in/janesmith"
+    },
+    "cfo": {
+      "name": "Michael Brown",
+      "title": "Chief Financial Officer",
+      "linkedin": "https://www.linkedin.com/in/michaelbrown"
+    },
+    "hr": [
+      {
+        "name": "Sarah Johnson",
+        "title": "Head of Human Resources",
+        "linkedin": "https://www.linkedin.com/in/sarahjohnson"
+      }
+    ],
+    "recruiters": [
+      {
+        "name": "Emily Davis",
+        "title": "Talent Acquisition Specialist",
+        "linkedin": "https://www.linkedin.com/in/emilydavis"
+      },
+      {
+        "name": "Tom Wilson",
+        "title": "Senior Recruiter",
+        "linkedin": "https://www.linkedin.com/in/tomwilson"
+      }
+    ]
   }
 ]
